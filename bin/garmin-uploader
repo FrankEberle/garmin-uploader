@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+from GarminUploader import main
+
+main.run()
